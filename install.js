@@ -12,7 +12,7 @@ module.exports = {
     {
       method: "shell.run",
       params: {
-        path: "inference",
+        path: "app/inference",
         message: [
           "git clone https://github.com/multimodal-art-projection/YuE",
 
