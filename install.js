@@ -14,7 +14,7 @@ module.exports = {
       params: {
         path: "app/inference",
         message: [
-          "git clone https://github.com/multimodal-art-projection/YuE models",
+          "git clone https://huggingface.co/m-a-p/xcodec_mini_infer",
 
         ]
       }
