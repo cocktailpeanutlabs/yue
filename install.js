@@ -14,7 +14,7 @@ module.exports = {
       params: {
         path: "app/inference",
         message: [
-          "git clone https://github.com/multimodal-art-projection/YuE",
+          "git clone https://github.com/multimodal-art-projection/YuE models",
 
         ]
       }
